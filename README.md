@@ -1,6 +1,6 @@
 # 📒 Agenda de Contactos en Java
 
-Este proyecto implementa una **Agenda de Contactos** con una interfaz de consola, 
+Este proyecto implementa una **Agenda de Contactos de un consultorio dental 🪥🦷** con una interfaz de consola, 
 desarrollada en **Java** siguiendo principios de **programación orientada a objetos (POO)** 
 y buenas prácticas de desarrollo.
 
