@@ -104,4 +104,9 @@ public class Agenda {
     public int espaciosLibres() {
         return espacios - contactos.size();
     }
+
+    public ArrayList<Contacto> getContactos() {
+        return contactos;
+    }
+
 }

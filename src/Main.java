@@ -1,7 +1,9 @@
 import java.util.Scanner;
+import javax.swing.SwingUtilities;
 
 public class Main {
     public static void main(String[] args) {
+        SwingUtilities.invokeLater(() -> new AgendaGUI().setVisible(true));
         Scanner sc = new Scanner(System.in);
         Agenda agenda = new Agenda();
         int opcion;
